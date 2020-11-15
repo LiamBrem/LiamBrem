@@ -1,13 +1,13 @@
-### Hi, I'm Liam, a highschooler that's been trying to code for 3 years
+# Hi, I'm Liam, a highschooler that's been trying to code for 3 years
 
 
-# 🖋 What I've worked With Already:
+## 🖋 What I've worked With Already:
 -HTML/CSS
 -Python
 -Java
 -Reactjs
 
-# 🖊 What I Want To Learn:
+## 🖊 What I Want To Learn:
 -C#
 -Django
 -Firebase
