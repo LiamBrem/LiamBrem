@@ -31,9 +31,9 @@
 - & Everything Else
 
 ### ✨ Some Of My Other Hobbies
-🎵 Piano/Guitar
-🎿 Skiing
-⚽ Soccer
+- 🎵 Piano/Guitar
+- 🎿 Skiing
+- ⚽ Soccer
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamBrem" />
