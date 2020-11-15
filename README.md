@@ -1,16 +1,15 @@
-####### Hi there 👋
+### Hi, I'm Liam, a highschooler that's been trying to code for 3 years
 
-<!--
-**LiamBrem/LiamBrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🖋 What I've worked With Already:
+-HTML/CSS
+-Python
+-Java
+-Reactjs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🖊 What I Want To Learn:
+-C#
+-Django
+-Firebase
+-Electronjs
+-& Pretty Much Everything Else
