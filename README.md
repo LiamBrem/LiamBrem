@@ -36,4 +36,5 @@
 - ⚽ Soccer
 
 ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=LiamBrem&theme=dark)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamBrem" />
+
+![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=LiamBrem&layout=compact&theme=dark)
