@@ -24,13 +24,15 @@
 - Python
 - Java
 - Ract 
-### 🔒 What I Want To Learn:
 - C#
+- HTML/CSS
+### 🔒 What I Want To Learn:
 - Flutter
 - Firebase
 - Django
 - Electronjs
 - TypeScript
+- GraphQL
 - & Everything Else
 
 ### ✨ Some Of My Other Hobbies
