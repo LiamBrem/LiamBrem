@@ -22,6 +22,4 @@
 
 ### Everyone's so fake here (tbh I don't know anything)
 
-![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=LiamBrem&theme=dark)
-
 ![Liam's github stats](https://github-readme-stats.vercel.app/api?username=LiamBrem&theme=dark)
