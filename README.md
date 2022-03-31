@@ -18,8 +18,5 @@
 <br />
 <br />
 
-## I'm like to make <i>things</i>
-
-### Everyone's so fake here (tbh I don't know anything)
 
 ![Liam's github stats](https://github-readme-stats.vercel.app/api?username=LiamBrem&theme=dark)
