@@ -1,20 +1,26 @@
-<br />
-<a href="https://www.youtube.com/channel/UCN1NM6Mu9f6MK3I2J0Ape4A">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.instagram.com/Liammm_05">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/brem.liam">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                 
-</a>
-<a href="mailto:liam.e.brem@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" /> 
-</a>
+<h2 align="left">Hi 👋! I'm Liam</h2>
 
-<br />
-<br />
-<br />
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" width="50" alt="csharp logo"  />
+</div>
 
-![Liam's github stats](https://github-readme-stats.vercel.app/api?username=LiamBrem&theme=dark)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LiamBrem" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LiamBrem" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LiamBrem/LiamBrem/blob/output/snake.svg" alt="Snake animation" />
+
+###
