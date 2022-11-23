@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.staticflickr.com%2F5%2F4009%2F4517725946_246663c2a1_b.jpg&f=1&nofb=1&ipt=47aeab310f79221d8c300256388ff87479b73a797aa6abbc34d3fcaee6bcbdaf&ipo=images"  />
+  <img height="300" src="https://c1.staticflicker.com/5/4009/4517725946_246663c2a1_b.jpg" />
 </div>
 
 ###
@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
