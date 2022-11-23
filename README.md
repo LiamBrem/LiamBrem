@@ -2,16 +2,18 @@
 
 ###
 
+<div align="left">
+  <a href="https://twitter.com/liammmdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  
+ ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&username=LiamBrem" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&username=LiamBrem" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="300" src="https://c1.staticflicker.com/5/4009/4517725946_246663c2a1_b.jpg" />
-</div>
 
 ###
 
@@ -34,10 +36,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://twitter.com/liammmdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+
 </div>
 
 ###
