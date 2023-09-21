@@ -5,7 +5,7 @@
 
   
 <div align="center">
-  [![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liambrem&theme=nord)](https://github.com/liambrem/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=liambrem&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&username=LiamBrem" height="150" alt="languages graph"  />
 </div>
   
