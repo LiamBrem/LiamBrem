@@ -1,12 +1,6 @@
 <h1 align="center">Liam Brem</h1>
 
 ###
-<h3>Featured Projects</h3>
-
-<h4>Autonomous Drone</h4>
-<p>Description</p>
-<p>Languages/Technology Used:</p>
-<p>Repo:</p>
 
 ###
   
