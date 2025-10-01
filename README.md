@@ -13,9 +13,9 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=LiamBrem&color=00b4a6&label=Profile%20Views"></a>
 </div>
 
-<div align="center">
-[My Website](https://liambrem.github.io/personal-website/)
-</div>
+<h3 align="center">
+  <a href="https://liambrem.github.io/personal-website/">My Website</a>
+</h3>
 
 </div>
 
