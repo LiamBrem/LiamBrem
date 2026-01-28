@@ -13,12 +13,12 @@
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=liambrem&show_icons=true&theme=calm"
-    width="420"
+    width="200"
     height="165"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=liambrem&theme=calm&layout=compact"
-    width="420"
+    width="200"
     height="165"
   />
 </p>
