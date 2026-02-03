@@ -10,6 +10,7 @@
 
 [![](https://skillicons.dev/icons?i=python,cpp,java)](https://skillicons.dev)
 ---
+<!--
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=liambrem&show_icons=true&theme=calm"
@@ -20,5 +21,6 @@
     height="120"
   />
 </p>
+-->
 
 <img src="https://komarev.com/ghpvc/?username=LiamBrem&color=00b4a6&label=Profile%20Views">
