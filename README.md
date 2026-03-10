@@ -1,7 +1,7 @@
 <h1>Liam Brem</h1>
 
-[LinkedIn](https://linkedin.com/in/liambrem/)|[Website](https://liambrem.github.io/personal-website/)|[Email](mailto:liambrem05@example.com)|
----------------------------------------------|-------------------------------------------------------|--------------------------------------|
+[SubStack](https://liambrem.substack.com/)|[LinkedIn](https://linkedin.com/in/liambrem/)|[Website](https://liambrem.github.io/personal-website/)|[Email](mailto:liambrem05@example.com)|
+------------------------------------------|---------------------------------------------|-------------------------------------------------------|--------------------------------------|
   
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=liambrem&theme=nord" height="150" />
